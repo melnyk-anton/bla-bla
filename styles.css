@@ -15,7 +15,7 @@ body {
   font-size: 36px;
   font-weight: 500;
   color: white;
-  text-shadow: 5px 5px 3px #624f82;
+  text-shadow: 5px 5px 3px black;
 }
 .container {
   display: flex;
